@@ -2,7 +2,7 @@
 Official code for "NoRD: A Framework for Noise-Resilient Self-Distillation through Relative Supervision" Communicated at Applied Intelligence Journal
 
 ## Communicated at Applied Intelligence Journal
-Here is the link to the [article]().
+link to the [article]() will be available after acceptance.
 
 ## Installation
 ### Mandatory Dependencies
