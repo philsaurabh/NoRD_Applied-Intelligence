@@ -21,9 +21,10 @@ link to the [article]() will be available after acceptance.
 
 ### To run it
 ```shell script
-python3 train.py
+python teacher_n.py --arch ResNet34    --lr 0.01 --gpu-id 0
+python student_n.py --t-path ./experiments/teacher_ResNet34_seed0/   --s-arch ResNet34    --lr 0.05 --gpu-id 0
 ```
-
+Models can be downloaded from official Pytorch website or from [SSKD Repository](https://github.com/xuguodong03/SSKD)
 
 
 ## Contact
@@ -38,3 +39,5 @@ please contact saurabh_2021cs30@iitp.ac.in for any discrepancy.
 * Vanshika Srivastava
 * Joydeep Chandra
 
+## Sources
+[SSKD Repository](https://github.com/xuguodong03/SSKD) is used for the basic architecture.
