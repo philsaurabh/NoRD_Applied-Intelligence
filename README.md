@@ -1,4 +1,4 @@
-# NoRD_Applied-Intelligence
+# NoRD: A framework for noise-resilient self-distillation through relative supervision
 
 ## Published at Applied intelligence Journal
 
