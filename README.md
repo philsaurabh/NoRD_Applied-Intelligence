@@ -2,7 +2,7 @@
 
 ## Published at Applied intelligence Journal
 
-A basic working code is given on Cifar100 only. It's ablation study code. So, some of the losses are commented out. 
+A basic working code is given on CIFAR100 only. It's ablation study code. So, some of the losses are commented out. 
 Link to the [article](https://link.springer.com/article/10.1007/s10489-025-06355-y) and full code may be made available on request.
 
 ## Installation
